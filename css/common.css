@@ -22,3 +22,15 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
+
+
+.gallery {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.gallery li {
+text-align: center;
+padding-top: 50px;
+background-color: rgb(220, 214, 221);
+}
